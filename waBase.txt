@@ -1,0 +1,1 @@
+{"version":"2.2.1","news":"Fix des magasins de masques, fix de cayo perico, ajout de la tablette lspd, ajout d'un mini contextmenu pour les véhicules"}
