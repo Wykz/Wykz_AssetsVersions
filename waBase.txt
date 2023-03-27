@@ -1,1 +1,1 @@
-{"version":"2.3.1","news":"Fix du check de la version, refonte des menus"}
+{"version":"2.4","news":"Fix menu boss, changement notifs et hud, fix des blips locations, fix perms menu admin, nouveau barbershop, changement du gangsbuilder"}
