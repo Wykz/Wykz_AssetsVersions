@@ -1,1 +1,1 @@
-{"version":"2.4","news":"Fix menu boss, changement notifs et hud, fix des blips locations, fix perms menu admin, nouveau barbershop, changement du gangsbuilder"}
+{"version":"2.4.1","news":"Fix gangbuilder, fix inventaire"}
