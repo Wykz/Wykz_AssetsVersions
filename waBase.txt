@@ -1,1 +1,1 @@
-{"version":"2.5","news":"Fix hud, amélioration menu admin, refont creator, contextmenu"}
+{"version":"2.6","news":"Ajout système de logs complet, refonte job non whitelist, suppression job concess moto et bateau, refonte système de propriété, fix contextmenu, amélioration du menu admin, ajout braquage de banque, fix donner item de l'inventaire"}
