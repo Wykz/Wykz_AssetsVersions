@@ -1,1 +1,1 @@
-{"version":"2.6","news":"Ajout système de logs complet, refonte job non whitelist, suppression job concess moto et bateau, refonte système de propriété, fix contextmenu, amélioration du menu admin, ajout braquage de banque, fix donner item de l'inventaire"}
+{"version":"2.6.1","news":"Fix achat arme boutique F1, fix banque, ajout /afk, fix erreur f8 distributeur, fix erreur f8 vms_barber, ajout npc pour acheter une perceuse (braquer atm + banque)"}
