@@ -1,1 +1,1 @@
-{"version":"2.6.1","news":"Fix achat arme boutique F1, fix banque, ajout /afk, fix erreur f8 distributeur, fix erreur f8 vms_barber, ajout npc pour acheter une perceuse (braquer atm + banque)"}
+{"version":"2.6.2","news":"Fix coffre véhicule, changement creator, ajout animalerie"}
