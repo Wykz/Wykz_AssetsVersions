@@ -1,1 +1,1 @@
-{"version":"2.6.3","news":"Fix creator"}
+{"version":"2.7","news":"Fix notif lspd pour event illegaux, opti base, fix animalerie, fix vetement, fix heure hud, opti contextmenu, fix icone enterspawn, ajout taille creator"}
