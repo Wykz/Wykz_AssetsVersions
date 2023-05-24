@@ -1,1 +1,1 @@
-{"version":"2.8","news":"Fix commandes, fix erreur console item, fix exploit, fix suppression propriété, refonte VIP, fix drugbuilder, fix gangbuilder, chagement deathscreen, fix couleur de peau, fix lever les mains, fix coffre d'entreprise, ajout système de ban, ajout blip magasin de masque"}
+{"version":"2.8.1","news":"Fix du gangbuilder"}
