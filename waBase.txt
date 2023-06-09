@@ -1,1 +1,1 @@
-{"version":"3.0","news":"Fix job mécano, fix coffre entreprise, fix job police, fix deathscreen, fix job ems, fix drugsbuilder, fix fouille f7, fix vestiaires, fix garage vigneron, fix ammunation, fix labo drogue, fix bahamas, fix item unicorn, fix logs, fix mode cinématique F5, ajout gestion grade boss menu, ajout agence immo, retrait uwucafe, config /afk"}
+{"version":"3.1","news":"Fix du coma"}
