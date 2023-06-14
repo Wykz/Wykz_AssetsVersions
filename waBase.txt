@@ -1,1 +1,1 @@
-{"version":"3.1","news":"Fix du coma"}
+{"version":"3.2","news":"Fix du coma, fix poids, fix cagoule, changement concess (script + mapping), retrait braco sup, ajout recul (tah offlineà, ajout racket PNJ"}
