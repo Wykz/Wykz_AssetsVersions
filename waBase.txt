@@ -1,1 +1,1 @@
-{"version":"4.1","news":"Allez check le patch note"}
+  {"version":"4.2","news":"Allez check le patch note"}
